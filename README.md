@@ -4,6 +4,8 @@ Fall 2022
 
 Group 8
 
+## Video
+
 [![Watch the video](https://img.youtube.com/vi/k_K2xKfLOgk/0.jpg)](https://youtu.be/k_K2xKfLOgk)
 
 ## Files
